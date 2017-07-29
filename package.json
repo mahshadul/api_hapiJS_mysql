@@ -1,0 +1,15 @@
+{
+  "name": "api-hapiJS-mysql",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "latest",
+    "hapi-swagger": "^6.2.2",
+    "inert": "^4.2.1",
+    "joi": "latest",
+    "mysql": "latest",
+    "nodemon": "latest",
+    "vision": "^4.1.0"
+  }
+}
+
